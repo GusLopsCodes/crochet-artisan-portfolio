@@ -1,4 +1,4 @@
-name: Build and Deploy Jekyll Site
+name: Build and Deploy Website
 
 on:
   push:
@@ -13,28 +13,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Setup Ruby
-        uses: actions/setup-ruby@v1
-        with:
-          ruby-version: '2.7'
-
-      - name: Install dependencies
-        run: |
-          gem install bundler
-          bundle install
-
-      - name: Build Jekyll site
-        run: bundle exec jekyll build
-
-      - name: Copy files to publish directory
+      - name: Copy files
         run: |
           mkdir -p publish
-          cp -r _site/* publish/
+          cp index.html publish/
+          cp -R CSS publish/
+          cp -R JS publish/
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update site"
+          commit_message: "Update website files"
           branch: main
           commit_user_name: "GitHub Actions"
           commit_user_email: "actions@github.com"
