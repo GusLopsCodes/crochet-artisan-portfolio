@@ -13,11 +13,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Move HTML file
-        run: mv HTML/edna.html publish/
-
-      - name: Move CSS file
-        run: mv CSS/Página_Inicial/edna.css publish/
+      - name: Move HTML and CSS files to publish directory
+        run: |
+          mv edna.html publish/
+          mv edna.css publish/
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
