@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
 
     steps:
       - name: Checkout repository
@@ -15,8 +15,8 @@ jobs:
 
       - name: Move HTML and CSS files to publish directory
         run: |
-          mv edna.html publish/
-          mv edna.css publish/
+          move HTML\edna.html publish\
+          move CSS\Página_Inicial\edna.css publish\
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
