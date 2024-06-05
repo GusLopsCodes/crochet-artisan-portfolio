@@ -15,7 +15,7 @@ jobs:
 
       - name: Move HTML and CSS files to publish directory
         run: |
-          move HTML\edna.html publish\
+          move edna.html publish\
           move CSS\Página_Inicial\edna.css publish\
 
       - name: Commit and push changes
