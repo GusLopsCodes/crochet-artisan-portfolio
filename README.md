@@ -12,7 +12,3 @@ Nos anos seguintes, continuou a aprimorar suas habilidades, explorando técnicas
 Desde então, tem se dedicado integralmente ao crochê, explorando uma ampla gama de projetos e técnicas. Sua jornada resultou em uma variedade de produtos, desde tapetes e roupas de bebê até acessórios de moda e decorações para o lar. Cada peça é uma expressão de sua criatividade e dedicação, refletindo não apenas sua habilidade técnica, mas também sua paixão pelo artesanato.
 
 Hoje, vive seu sonho, compartilhando sua arte com o mundo através deste portfólio online. Seu trabalho transcende o simples crochê; é uma narrativa de perseverança, amor pela arte e alegria encontrada na criação de algo belo com as próprias mãos.
-
-## Formas de Contato
-### Telefone
-+55 (11)94121-2737
