@@ -1,14 +1,28 @@
 # Portfólio Profissional de Artesã de Crochê
 
+![Banner](https://images.pexels.com/photos/27442251/pexels-photo-27442251.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
 ## Introdução
-Este portfólio surge como uma plataforma para destacar o trabalho excepcional da talentosa artesã de crochê, visando não apenas expandir seu alcance profissional, mas também compartilhar sua paixão e habilidade com uma audiência mais ampla. O impulso para este projeto nasceu da convergência entre minha jornada acadêmica em Ciência da Computação e minha estreita relação com a artesã. Ao adentrar este portfólio, os visitantes serão imersos em uma jornada cativante através do mundo do crochê, onde cada clique revela uma nova obra-prima entrelaçada com fios de criatividade e habilidade. Na seção de Projetos, uma cuidadosa seleção dos mais destacados trabalhos de cada categoria aguarda os apreciadores de arte e artesanato, oferecendo uma visão panorâmica do talento e da versatilidade da artesã. Enquanto isso, a seção Saiba Mais proporciona uma visão íntima da trajetória, experiências, conquistas e inspirações que moldaram a jornada desta artista dedicada. Este portfólio não é apenas um conjunto de páginas virtuais, mas sim um convite para explorar e se encantar com o universo do crochê sob a perspectiva única e apaixonada de uma verdadeira mestra neste ofício.
+Este portfólio destaca o trabalho excepcional da talentosa artesã de crochê, com o objetivo de expandir seu alcance profissional e compartilhar sua paixão e habilidade com uma audiência mais ampla. Aqui, você encontrará uma seleção cuidadosa de seus trabalhos mais notáveis e uma visão sobre sua jornada e experiência no mundo do crochê.
 
 ## Sobre a Criadora
 ### História
-A jornada de nossa artesã teve início em uma pacata vizinhança, aos 12 anos, quando ela foi inspirada pela habilidade de uma vizinha em transformar fios em belíssimas criações de crochê. Fascinada pela arte, decidiu aventurar-se nesse mundo, encontrando sua primeira oportunidade em uma loja local que não só vendia lã, mas também oferecia aulas de crochê. Foi lá que deu os primeiros passos, criando seu inicial trabalho: um colete cor de salmão.
+A jornada da nossa artesã começou aos 12 anos, inspirada pela habilidade de uma vizinha em transformar fios em belas criações de crochê. Após aprender os fundamentos em uma loja local, continuou a aprimorar suas habilidades e, após um hiato, redescobriu sua paixão através de tutoriais online. Hoje, compartilha sua arte com o mundo através deste portfólio.
 
-Nos anos seguintes, continuou a aprimorar suas habilidades, explorando técnicas e padrões diversos. Contudo, as demandas da vida a afastaram do crochê por um período. A chama da paixão, entretanto, nunca se extinguiu, e após um hiato, redescobriu sua arte na vastidão do YouTube, onde encontrou um novo mundo de possibilidades e tutoriais detalhados que a permitiram desbloquear seu verdadeiro potencial como artesã.
+## Projetos
+Aqui você encontrará uma seleção dos projetos mais destacados da artesã. Cada peça é uma expressão de criatividade e dedicação, refletindo não apenas habilidade técnica, mas também paixão pelo artesanato.
 
-Desde então, tem se dedicado integralmente ao crochê, explorando uma ampla gama de projetos e técnicas. Sua jornada resultou em uma variedade de produtos, desde tapetes e roupas de bebê até acessórios de moda e decorações para o lar. Cada peça é uma expressão de sua criatividade e dedicação, refletindo não apenas sua habilidade técnica, mas também sua paixão pelo artesanato.
+<img src="https://images.pexels.com/photos/10942920/pexels-photo-10942920.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Trabalho Atual" width="575"/>
 
-Hoje, vive seu sonho, compartilhando sua arte com o mundo através deste portfólio online. Seu trabalho transcende o simples crochê; é uma narrativa de perseverança, amor pela arte e alegria encontrada na criação de algo belo com as próprias mãos.
+## Instalação
+Atualmente, este projeto de portfólio não requer instalação, pois é uma coleção estática de informações e imagens. No entanto, para a visualização das imagens e conteúdo, você pode acessar diretamente o repositório no GitHub.
+
+## Uso
+Para visualizar o portfólio, simplesmente acesse a página principal do repositório. Navegue pelas seções para explorar o trabalho da artesã e conhecer sua história e projetos.
+
+## Contribuição
+Se você deseja contribuir para este projeto ou fornecer feedback, por favor, siga as instruções abaixo:
+1. **Fork o repositório**: Crie uma cópia do repositório em sua própria conta GitHub.
+2. **Clone o repositório**: Faça o download do repositório para sua máquina local.
+   ```bash
+   git clone https://github.com/GusLopsCodes/crochet-artisan-portfolio.git
